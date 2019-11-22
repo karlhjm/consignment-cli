@@ -1,4 +1,4 @@
-module github.com/karlhjm/microService/consignment-cli
+module github.com/karlhjm/consignment-cli
 
 go 1.13
 
